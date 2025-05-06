@@ -19,5 +19,5 @@ Este projeto consiste em uma API desenvolvida com Django e Django REST Framework
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Realmate-ai/realmate-challenge-dev.git
+git clone https://github.com/lucas21gunss/project
 cd realmate-challenge-dev
